@@ -1,0 +1,15 @@
+date,region,tempC,precipMM,stringency,forecasted_activity
+2020-06-28,phoenix park,13.95,1.61,72.22,moderate
+2020-06-28,trinity,13.95,1.61,72.22,calm
+2020-06-29,trinity,11.69,1.48,72.22,calm
+2020-06-29,phoenix park,11.69,1.48,72.22,moderate
+2020-06-30,phoenix park,16.93,0.67,72.22,moderate
+2020-06-30,trinity,16.93,0.67,72.22,calm
+2020-07-01,trinity,12.91,5.96,72.22,calm
+2020-07-01,phoenix park,12.91,5.96,72.22,moderate
+2020-07-02,phoenix park,15.52,3.79,72.22,moderate
+2020-07-02,trinity,15.52,3.79,72.22,calm
+2020-07-03,trinity,15.47,6.73,72.22,calm
+2020-07-03,phoenix park,15.47,6.73,72.22,moderate
+2020-07-04,phoenix park,15.9,1.08,72.22,moderate
+2020-07-04,trinity,15.9,1.08,72.22,calm
